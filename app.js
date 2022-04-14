@@ -10,7 +10,7 @@ app.get('/', (req, res, next) => {
 })
 
 app.post('/user', (req, res, next) => {
-   const name = req.body.name, enroll = req.body;
+
 })
 
 app.get('/user', (req, res, next) => {
